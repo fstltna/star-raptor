@@ -1,0 +1,60 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.10.1666]
+    Renderer: Mobile Intel(R) GM45 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProCore.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\ProCore.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\pb_Profiler.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\pb_Profiler.dll into Unity Child Domain
+- Completed reload, in  0.174 seconds
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\home\marisag\Downloads\Star_Raptor_120_64bit\Star_Raptor_120_64bit_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+UnloadTime: 1.927600 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.899200 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2781.
+Total: 3.896900 ms (FindLiveObjects: 0.720800 ms CreateObjectMapping: 0.325400 ms MarkObjects: 2.498400 ms  DeleteObjects: 0.340900 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.464900 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 3297.
+Total: 5.684400 ms (FindLiveObjects: 0.604800 ms CreateObjectMapping: 0.340800 ms MarkObjects: 4.158100 ms  DeleteObjects: 0.567100 ms)
+
